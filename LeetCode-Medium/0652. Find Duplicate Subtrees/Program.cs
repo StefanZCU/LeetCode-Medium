@@ -1,10 +1,23 @@
-﻿namespace _0652._Find_Duplicate_Subtrees
+﻿public class TreeNode 
 {
-    internal class Program
+    public int val;
+
+    public TreeNode left;
+
+    public TreeNode right;
+
+    public TreeNode(int val=0, TreeNode left=null, TreeNode right=null) 
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+
+public class Solution
+{
+    public IList<TreeNode> FindDuplicateSubtrees(TreeNode root)
+    {
+
     }
 }
