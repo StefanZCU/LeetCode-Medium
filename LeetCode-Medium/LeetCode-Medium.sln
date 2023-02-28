@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0198. House Robber", "0198.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0652. Find Duplicate Subtrees", "0652. Find Duplicate Subtrees\0652. Find Duplicate Subtrees.csproj", "{AD9C9942-53B2-4685-AC0B-B96880B3F32F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003. Longest Substring Without Repeating Characters", "0003. Longest Substring Without Repeating Characters\0003. Longest Substring Without Repeating Characters.csproj", "{C20A52B3-9E72-4F29-B218-94540D5C9FD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AD9C9942-53B2-4685-AC0B-B96880B3F32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD9C9942-53B2-4685-AC0B-B96880B3F32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD9C9942-53B2-4685-AC0B-B96880B3F32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20A52B3-9E72-4F29-B218-94540D5C9FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20A52B3-9E72-4F29-B218-94540D5C9FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20A52B3-9E72-4F29-B218-94540D5C9FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20A52B3-9E72-4F29-B218-94540D5C9FD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
